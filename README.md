@@ -14,3 +14,5 @@
 
 ## 📫 Let's Connect!
 - Email: bonshallangthasa90@gmail.com
+## When not coding:
+-I like to make art, listen to music and play sports
