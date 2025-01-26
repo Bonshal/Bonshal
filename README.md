@@ -9,7 +9,7 @@
 - **Tools**: Git, VS Code,
 
 ## 🌱 What I'm Learning
-- Advanced algorithms and data structures.
+- Data structure and algorithms
 - Fullstack web development 
 
 ## 📫 Let's Connect!
